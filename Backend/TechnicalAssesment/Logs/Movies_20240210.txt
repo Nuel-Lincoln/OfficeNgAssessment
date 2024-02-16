@@ -1,0 +1,4 @@
+2024-02-10 11:09:15.776 +01:00 [INF] About to make call for Normal movie of name : Game, 
+2024-02-10 11:09:22.919 +01:00 [INF] Request was a success 
+2024-02-10 11:13:10.933 +01:00 [INF] About to make call for Normal movie of name : Love, 
+2024-02-10 11:13:14.272 +01:00 [INF] Request was a success 
